@@ -1,0 +1,36 @@
+---
+'Garlic Bread':
+  ingredients:
+  - olives
+  - mozzarella
+  - bread
+  - oregano
+  - corn
+  price: 200
+'Choco Cake':
+  ingredients:
+  - chocolate
+  - bread
+  - cream
+  price: 100
+'Burger Pizza':
+  ingredients:
+  - bread
+  - cheese
+  - tomato
+  - potato
+  price: 150
+'Pasta':
+  ingredients:
+  - olives
+  - cheese
+  - macroni
+  - oregano
+  - pepperika
+  price: 140
+'French Fries':
+  ingredients:
+  - potato
+  - redpepper
+  price: 70
+    

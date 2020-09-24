@@ -1,0 +1,11 @@
+---
+  'Coke':
+    price: 40
+  'Fanta':
+    price: 40
+  'bisleri':
+    price: 20
+  'lime soda':
+    price: 50
+  'juice':
+    price: 40
